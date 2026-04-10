@@ -103,6 +103,8 @@ Kết quả kiểm tra:
 
 ### 17. Upload và Hoàn thiện báo cáo
 Upload file `dulieu.sql` và hình ảnh minh chứng lên GitHub Repository cá nhân.
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/da23311c-cfcc-47f2-964c-757871121646" />
+
 
 
 
