@@ -1,4 +1,4 @@
-# BÁO CÁO CHI TIẾT CÁC BƯỚC THỰC HIỆN LAB SQL SERVER
+# BÁO CÁO CHI TIẾT CÁC BƯỚC THỰC HIỆN SQL SERVER
 
 ## Thông tin sinh viên
 * **Họ và tên:** Nguyễn Thị Ngọc Linh
